@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GaxScript/MoreiraScript/refs/heads/main/AutoMoreiraMethod"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/XcDySVRnKxDMCE5A/raw"))()
